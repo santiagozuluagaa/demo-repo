@@ -1,5 +1,5 @@
 ¡Hola git!
 
-Edición aquí
+Cambios en la nueva rama
 
 Se añade texto
